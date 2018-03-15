@@ -1,0 +1,87 @@
+# MH preset
+
+RequireAdmin
+
+# Privacy Tweaks
+DisableTelemetry
+DisableWiFiSense
+DisableWebSearch
+DisableAppSuggestions
+DisableLocationTracking
+DisableMapUpdates
+DisableFeedback
+DisableTailoredExperiences
+DisableAdvertisingID
+DisableWebLangList
+DisableCortana
+DisableErrorReporting
+SetP2PUpdateDisable
+DisableDiagTrack
+DisableWAPPush
+
+# Security Tweaks
+DisableAdminShares
+DisableSMBServer
+SetCurrentNetworkPublic
+SetUnknownNetworksPublic
+DisableDownloadBlocking
+
+# Service Tweaks
+DisableUpdateRestart
+DisableRemoteAssistance
+DisableRemoteDesktop
+DisableAutoplay
+DisableAutorun
+DisableStorageSense
+DisableDefragmentation
+EnableHibernation
+
+# UI Tweaks
+DisableActionCenter
+DisableAeroShake
+DisableStickyKeys
+ShowTaskManagerDetails
+ShowFileOperationsDetails
+HideTaskbarSearch
+HideTaskView
+SetTaskbarCombineWhenFull
+HideTaskbarPeopleIcon
+DisableSearchAppInStore
+SetControlPanelLargeIcons
+SetVisualFXPerformance
+RemoveENKeyboard
+EnableNumlock
+SetSoundSchemeNone
+DisableStartupSound
+
+# Explorer UI Tweaks
+ShowKnownExtensions
+ShowHiddenFiles
+EnableNavPaneExpand
+HideRecentShortcuts
+SetExplorerThisPC
+ShowThisPCOnDesktop
+Hide3DObjectsFromThisPC
+Hide3DObjectsFromExplorer
+HideIncludeInLibraryMenu
+DisableThumbnailCache
+DisableThumbsDBOnNetwork
+
+# Application Tweaks
+UninstallMsftBloat
+UninstallThirdPartyBloat
+DisableXboxFeatures
+DisableAdobeFlash
+UninstallMediaPlayer
+UninstallInternetExplorer
+UninstallWorkFolders
+# InstallHyperV
+UninstallXPSPrinter
+RemoveFaxPrinter
+UninstallFaxAndScan
+
+# Unpinning
+UnpinStartMenuTiles
+UnpinTaskbarIcons
+
+WaitForKey
